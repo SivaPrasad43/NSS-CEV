@@ -18,6 +18,9 @@ ul{
   list-style: none;
   padding: 0;
 }
+.light-bg{
+  background-color:#F8F8F8 ;
+}
 #overlay{
   background: rgba(0, 0, 0, 0.692);
   position: absolute;
