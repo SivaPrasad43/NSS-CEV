@@ -37,44 +37,44 @@
             "date": "Date : 9/1/2020 - 14/1/2020",
             "images": [
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_01_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_01.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_01_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_01.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_02_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_02.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_02_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_02.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_03_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_03.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_03_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_03.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_04_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_04.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_04_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_04.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_05_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_05.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_05_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_05.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_06_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_06.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_06_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_06.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_07_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_07.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_07_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_07.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_08_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_08.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_08_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_08.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_09_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_09.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_09_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_09.webp"
               },
               {
-                "thumb": "../images/led-bulb/Led_bulb_making_10_thumb.webp",
-                "original": "../images/led-bulb/Led_bulb_making_10.webp"
+                "thumb": "./images/led-bulb/Led_bulb_making_10_thumb.webp",
+                "original": "./images/led-bulb/Led_bulb_making_10.webp"
               }
             ]
           },
