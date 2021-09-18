@@ -121,7 +121,7 @@ ul{
   height: 15rem;
   background-color: #727272;
   position: relative;
-  background-image: url(.../images/college.webp);
+  background-image: url(../images/college.webp);
   background-size:cover;
   background-clip: content-box;
   background-position: center;
