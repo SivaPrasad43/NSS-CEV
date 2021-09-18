@@ -1,0 +1,101 @@
+:root{
+    --b-radius:1rem;
+}
+.notifi{
+    flex: 1 1 60%;
+}
+.event{
+    flex: 1 1 40%;
+}
+.card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+#notification,#events{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 27rem;
+}
+#notification{
+    overflow-x: hidden;
+    scroll-snap-type: y mandatory;
+}
+#events{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+}
+@media(max-width:992px){
+    #events{
+        max-height: 21rem;
+    }
+    p{
+        margin-bottom:15px;
+    }
+    .card{
+        min-width: 16rem !important;
+    }
+    .card-body{
+        position:relative;
+        padding: 5px !important;
+    }
+}
+.accordion{
+    margin:1rem;
+}
+.card{
+    border-radius: var(--b-radius);
+    margin: 1rem;
+    min-width: 18rem;
+    scroll-snap-align: center;
+}
+.card .img_wrap{
+    width: 100%;
+    height: 9rem;
+    overflow: hidden;
+}
+.card .img_wrap img{
+    width: 100%;
+}
+.card:hover img{
+    filter: none;
+}
+.card h6{
+    color: gray;
+}
+.card .card-date{
+    margin-bottom: 5px;
+}
+.card-body .btn{
+    display: flex;
+    justify-content: center;
+}
+.card-img-top{
+    border-radius: var(--b-radius) var(--b-radius) 0rem 0rem;
+}
+.accordion-button{
+    padding:10px;
+}
+.accordion-button .notifi_title .date{
+    margin: 0;
+    font-size: 12px;
+}
+
+.date{
+    color: rgba(44, 44, 44, 0.753);
+    margin: 0rem 1rem;
+}
+
+@media (min-width:992px) {
+    .notification_bar{
+        max-height: 480px;
+    }
+    .card{
+        max-width: 18rem;
+        margin: 1rem auto;
+    }
+    #events{
+        overflow-x: hidden;
+        overflow-y: scroll;
+        scroll-snap-type: y mandatory;
+    }
+}

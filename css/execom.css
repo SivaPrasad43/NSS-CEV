@@ -1,0 +1,35 @@
+.card{
+    margin: 2rem 0rem;
+    transition: 0.5s;
+}
+.card:hover{
+    transform: scale(1.03);
+    transition: 0.5s;
+}
+.card:hover .card-pos{
+    background-color: rgb(213, 169, 255) ;
+    color: white;
+}
+.card-img{
+    height:auto ;
+    display: flex;
+    justify-content: center;
+}
+.card-ring{
+    border: 1px solid rgb(213, 169, 255);
+    border-radius: 50%;
+    padding: 5px;
+}
+.card-img img{
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+}
+.card-pos{
+    border: 2px solid rgb(213, 169, 255);
+    border-radius:5px;
+    padding: 0 10px 0 10px;
+    font-weight: 500;
+    color: rgb(95, 95, 95);
+    transition: 0.3s;
+}

@@ -1,0 +1,47 @@
+{
+  "notification": [
+    {
+      "id": 3,
+      "title": "Notification 1",
+      "date": "Date : 12/12/2021",
+      "time": "12:00 AM",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": 2,
+      "title": "Notification 2",
+      "date": "Date : 12/12/2021",
+      "time": "12:00 AM",
+      "content": "qwertyuiosdfghjk nnjsnx ,  jicjsidi\ndvsdv"
+    },
+    {
+      "id": 1,
+      "title": "Notification 3",
+      "date": "Date : 12/12/2021",
+      "time": "12:00 AM",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "img": "/images/events/poster_2.webp",
+      "title": "Event 1",
+      "date": "Deadline : 12/12/2021",
+      "time": "12:00 AM",
+      "content": "Quiz Competition",
+      "status" : "open",
+      "link" : "https://developer.mozilla.org/en-US/docs/Web/API/Response/json"
+    },
+    {
+      "id": 2,
+      "img": "/images/events/poster_2.webp",
+      "title": "Event 2",
+      "date": "Deadline : 12/12/2021",
+      "time": "12:00 AM",
+      "content": "Quiz Competition",
+      "status" : "closed"
+    }
+
+  ]
+}
