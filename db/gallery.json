@@ -6,28 +6,28 @@
             "date": "Date : 4/1/2020 - 10/1/2020",
             "images": [
                 {
-                    "thumb": "/images/deekshna/Deekshna_01_thumb.webp",
-                    "original": "/images/deekshna/Deekshna_01.webp"
+                    "thumb": "./images/deekshna/Deekshna_01_thumb.webp",
+                    "original": "./images/deekshna/Deekshna_01.webp"
                 },
                 {
-                    "thumb": "/images/deekshna/Deekshna_02_thumb.webp",
-                    "original": "/images/deekshna/Deekshna_02.webp"
+                    "thumb": "./images/deekshna/Deekshna_02_thumb.webp",
+                    "original": "./images/deekshna/Deekshna_02.webp"
                 },
                 {
-                    "thumb": "/images/deekshna/Deekshna_03_thumb.webp",
-                    "original": "/images/deekshna/Deekshna_03.webp"
+                    "thumb": "./images/deekshna/Deekshna_03_thumb.webp",
+                    "original": "./images/deekshna/Deekshna_03.webp"
                 },
                 {
-                    "thumb": "/images/deekshna/Deekshna_04_thumb.webp",
-                    "original": "/images/deekshna/Deekshna_04.webp"
+                    "thumb": "./images/deekshna/Deekshna_04_thumb.webp",
+                    "original": "./images/deekshna/Deekshna_04.webp"
                 },
                 {
-                    "thumb": "/images/deekshna/Deekshna_05_thumb.webp",
-                    "original": "/images/deekshna/Deekshna_05.webp"
+                    "thumb": "./images/deekshna/Deekshna_05_thumb.webp",
+                    "original": "./images/deekshna/Deekshna_05.webp"
                 },
                 {
-                    "thumb": "/images/deekshna/Deekshna_06_thumb.webp",
-                    "original": "/images/deekshna/Deekshna_06.webp"
+                    "thumb": "./images/deekshna/Deekshna_06_thumb.webp",
+                    "original": "./images/deekshna/Deekshna_06.webp"
                 }
             ]
         },
@@ -37,44 +37,44 @@
             "date": "Date : 9/1/2020 - 14/1/2020",
             "images": [
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_01_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_01.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_01_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_01.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_02_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_02.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_02_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_02.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_03_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_03.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_03_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_03.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_04_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_04.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_04_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_04.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_05_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_05.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_05_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_05.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_06_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_06.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_06_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_06.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_07_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_07.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_07_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_07.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_08_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_08.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_08_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_08.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_09_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_09.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_09_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_09.webp"
               },
               {
-                "thumb": "./images/led-bulb/Led_bulb_making_10_thumb.webp",
-                "original": "./images/led-bulb/Led_bulb_making_10.webp"
+                "thumb": "../images/led-bulb/Led_bulb_making_10_thumb.webp",
+                "original": "../images/led-bulb/Led_bulb_making_10.webp"
               }
             ]
           },
@@ -84,28 +84,28 @@
             "date": "Date : 21/12/2019 - 27/12/2019",
             "images": [
                 {
-                    "original": "/images/lakshya/Lakshya_01.webp",
-                    "thumb": "/images/lakshya/Lakshya_01_thumb.webp"
+                    "original": "./images/lakshya/Lakshya_01.webp",
+                    "thumb": "./images/lakshya/Lakshya_01_thumb.webp"
                 },
                 {
-                    "original": "/images/lakshya/Lakshya_02.webp",
-                    "thumb": "/images/lakshya/Lakshya_02_thumb.webp"
+                    "original": "./images/lakshya/Lakshya_02.webp",
+                    "thumb": "./images/lakshya/Lakshya_02_thumb.webp"
                 },
                 {
-                    "original": "/images/lakshya/Lakshya_03.webp",
-                    "thumb": "/images/lakshya/Lakshya_03_thumb.webp"
+                    "original": "./images/lakshya/Lakshya_03.webp",
+                    "thumb": "./images/lakshya/Lakshya_03_thumb.webp"
                 },
                 {
-                    "original": "/images/lakshya/Lakshya_04.webp",
-                    "thumb": "/images/lakshya/Lakshya_04_thumb.webp"
+                    "original": "./images/lakshya/Lakshya_04.webp",
+                    "thumb": "./images/lakshya/Lakshya_04_thumb.webp"
                 },
                 {
-                    "original": "/images/lakshya/Lakshya_05.webp",
-                    "thumb": "/images/lakshya/Lakshya_05_thumb.webp"
+                    "original": "./images/lakshya/Lakshya_05.webp",
+                    "thumb": "./images/lakshya/Lakshya_05_thumb.webp"
                 },
                 {
-                    "original": "/images/lakshya/Lakshya_06.webp",
-                    "thumb": "/images/lakshya/Lakshya_06_thumb.webp"
+                    "original": "./images/lakshya/Lakshya_06.webp",
+                    "thumb": "./images/lakshya/Lakshya_06_thumb.webp"
                 }
             ]
         },
@@ -115,68 +115,68 @@
             "date":"Date : 13/12/2019",
             "images": [
               {
-                "original": "/images/nature-camp/Nature_camp_01.webp",
-                "thumb": "/images/nature-camp/Nature_camp_01_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_01.webp",
+                "thumb": "./images/nature-camp/Nature_camp_01_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_02.webp",
-                "thumb": "/images/nature-camp/Nature_camp_02_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_02.webp",
+                "thumb": "./images/nature-camp/Nature_camp_02_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_03.webp",
-                "thumb": "/images/nature-camp/Nature_camp_03_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_03.webp",
+                "thumb": "./images/nature-camp/Nature_camp_03_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_04.webp",
-                "thumb": "/images/nature-camp/Nature_camp_04_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_04.webp",
+                "thumb": "./images/nature-camp/Nature_camp_04_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_05.webp",
-                "thumb": "/images/nature-camp/Nature_camp_05_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_05.webp",
+                "thumb": "./images/nature-camp/Nature_camp_05_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_06.webp",
-                "thumb": "/images/nature-camp/Nature_camp_06_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_06.webp",
+                "thumb": "./images/nature-camp/Nature_camp_06_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_07.webp",
-                "thumb": "/images/nature-camp/Nature_camp_07_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_07.webp",
+                "thumb": "./images/nature-camp/Nature_camp_07_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_08.webp",
-                "thumb": "/images/nature-camp/Nature_camp_08_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_08.webp",
+                "thumb": "./images/nature-camp/Nature_camp_08_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_09.webp",
-                "thumb": "/images/nature-camp/Nature_camp_09_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_09.webp",
+                "thumb": "./images/nature-camp/Nature_camp_09_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_10.webp",
-                "thumb": "/images/nature-camp/Nature_camp_10_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_10.webp",
+                "thumb": "./images/nature-camp/Nature_camp_10_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_11.webp",
-                "thumb": "/images/nature-camp/Nature_camp_11_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_11.webp",
+                "thumb": "./images/nature-camp/Nature_camp_11_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_12.webp",
-                "thumb": "/images/nature-camp/Nature_camp_12_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_12.webp",
+                "thumb": "./images/nature-camp/Nature_camp_12_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_13.webp",
-                "thumb": "/images/nature-camp/Nature_camp_13_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_13.webp",
+                "thumb": "./images/nature-camp/Nature_camp_13_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_14.webp",
-                "thumb": "/images/nature-camp/Nature_camp_14_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_14.webp",
+                "thumb": "./images/nature-camp/Nature_camp_14_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_15.webp",
-                "thumb": "/images/nature-camp/Nature_camp_15_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_15.webp",
+                "thumb": "./images/nature-camp/Nature_camp_15_thumb.webp"
               },
               {
-                "original": "/images/nature-camp/Nature_camp_16.webp",
-                "thumb": "/images/nature-camp/Nature_camp_16_thumb.webp"
+                "original": "./images/nature-camp/Nature_camp_16.webp",
+                "thumb": "./images/nature-camp/Nature_camp_16_thumb.webp"
               }
             ]
           },
@@ -186,68 +186,68 @@
             "date": "Date : 21/12/2018 - 27/12/2018",
             "images": [
                 {
-                    "thumb": "/images/chuvad/Chuvad_01_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_01.webp"
+                    "thumb": "./images/chuvad/Chuvad_01_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_01.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_02_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_02.webp"
+                    "thumb": "./images/chuvad/Chuvad_02_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_02.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_03_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_03.webp"
+                    "thumb": "./images/chuvad/Chuvad_03_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_03.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_04_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_04.webp"
+                    "thumb": "./images/chuvad/Chuvad_04_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_04.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_05_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_05.webp"
+                    "thumb": "./images/chuvad/Chuvad_05_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_05.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_06_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_06.webp"
+                    "thumb": "./images/chuvad/Chuvad_06_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_06.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_07_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_07.webp"
+                    "thumb": "./images/chuvad/Chuvad_07_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_07.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_08_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_08.webp"
+                    "thumb": "./images/chuvad/Chuvad_08_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_08.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_09_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_09.webp"
+                    "thumb": "./images/chuvad/Chuvad_09_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_09.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_10_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_10.webp"
+                    "thumb": "./images/chuvad/Chuvad_10_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_10.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_11_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_11.webp"
+                    "thumb": "./images/chuvad/Chuvad_11_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_11.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_12_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_12.webp"
+                    "thumb": "./images/chuvad/Chuvad_12_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_12.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_13_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_13.webp"
+                    "thumb": "./images/chuvad/Chuvad_13_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_13.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_14_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_14.webp"
+                    "thumb": "./images/chuvad/Chuvad_14_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_14.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_15_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_15.webp"
+                    "thumb": "./images/chuvad/Chuvad_15_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_15.webp"
                 },
                 {
-                    "thumb": "/images/chuvad/Chuvad_16_thumb.webp",
-                    "original": "/images/chuvad/Chuvad_16.webp"
+                    "thumb": "./images/chuvad/Chuvad_16_thumb.webp",
+                    "original": "./images/chuvad/Chuvad_16.webp"
                 }
             ]
         },
@@ -257,148 +257,148 @@
             "date": "Date : 5/9/2017 - 11/9/2017",
             "images": [
                 {
-                    "original": "/images/punarjani/Punarjani_01.webp",
-                    "thumb": "/images/punarjani/Punarjani_01_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_01.webp",
+                    "thumb": "./images/punarjani/Punarjani_01_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_02.webp",
-                    "thumb": "/images/punarjani/Punarjani_02_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_02.webp",
+                    "thumb": "./images/punarjani/Punarjani_02_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_03.webp",
-                    "thumb": "/images/punarjani/Punarjani_03_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_03.webp",
+                    "thumb": "./images/punarjani/Punarjani_03_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_04.webp",
-                    "thumb": "/images/punarjani/Punarjani_04_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_04.webp",
+                    "thumb": "./images/punarjani/Punarjani_04_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_05.webp",
-                    "thumb": "/images/punarjani/Punarjani_05_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_05.webp",
+                    "thumb": "./images/punarjani/Punarjani_05_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_06.webp",
-                    "thumb": "/images/punarjani/Punarjani_06_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_06.webp",
+                    "thumb": "./images/punarjani/Punarjani_06_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_07.webp",
-                    "thumb": "/images/punarjani/Punarjani_07_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_07.webp",
+                    "thumb": "./images/punarjani/Punarjani_07_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_08.webp",
-                    "thumb": "/images/punarjani/Punarjani_08_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_08.webp",
+                    "thumb": "./images/punarjani/Punarjani_08_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_09.webp",
-                    "thumb": "/images/punarjani/Punarjani_09_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_09.webp",
+                    "thumb": "./images/punarjani/Punarjani_09_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_10.webp",
-                    "thumb": "/images/punarjani/Punarjani_10_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_10.webp",
+                    "thumb": "./images/punarjani/Punarjani_10_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_11.webp",
-                    "thumb": "/images/punarjani/Punarjani_11_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_11.webp",
+                    "thumb": "./images/punarjani/Punarjani_11_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_12.webp",
-                    "thumb": "/images/punarjani/Punarjani_12_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_12.webp",
+                    "thumb": "./images/punarjani/Punarjani_12_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_13.webp",
-                    "thumb": "/images/punarjani/Punarjani_13_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_13.webp",
+                    "thumb": "./images/punarjani/Punarjani_13_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_14.webp",
-                    "thumb": "/images/punarjani/Punarjani_14_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_14.webp",
+                    "thumb": "./images/punarjani/Punarjani_14_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_15.webp",
-                    "thumb": "/images/punarjani/Punarjani_15_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_15.webp",
+                    "thumb": "./images/punarjani/Punarjani_15_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_16.webp",
-                    "thumb": "/images/punarjani/Punarjani_16_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_16.webp",
+                    "thumb": "./images/punarjani/Punarjani_16_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_17.webp",
-                    "thumb": "/images/punarjani/Punarjani_17_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_17.webp",
+                    "thumb": "./images/punarjani/Punarjani_17_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_18.webp",
-                    "thumb": "/images/punarjani/Punarjani_18_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_18.webp",
+                    "thumb": "./images/punarjani/Punarjani_18_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_19.webp",
-                    "thumb": "/images/punarjani/Punarjani_19_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_19.webp",
+                    "thumb": "./images/punarjani/Punarjani_19_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_20.webp",
-                    "thumb": "/images/punarjani/Punarjani_20_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_20.webp",
+                    "thumb": "./images/punarjani/Punarjani_20_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_21.webp",
-                    "thumb": "/images/punarjani/Punarjani_21_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_21.webp",
+                    "thumb": "./images/punarjani/Punarjani_21_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_22.webp",
-                    "thumb": "/images/punarjani/Punarjani_22_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_22.webp",
+                    "thumb": "./images/punarjani/Punarjani_22_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_23.webp",
-                    "thumb": "/images/punarjani/Punarjani_23_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_23.webp",
+                    "thumb": "./images/punarjani/Punarjani_23_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_24.webp",
-                    "thumb": "/images/punarjani/Punarjani_24_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_24.webp",
+                    "thumb": "./images/punarjani/Punarjani_24_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_25.webp",
-                    "thumb": "/images/punarjani/Punarjani_25_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_25.webp",
+                    "thumb": "./images/punarjani/Punarjani_25_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_26.webp",
-                    "thumb": "/images/punarjani/Punarjani_26_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_26.webp",
+                    "thumb": "./images/punarjani/Punarjani_26_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_27.webp",
-                    "thumb": "/images/punarjani/Punarjani_27_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_27.webp",
+                    "thumb": "./images/punarjani/Punarjani_27_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_28.webp",
-                    "thumb": "/images/punarjani/Punarjani_28_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_28.webp",
+                    "thumb": "./images/punarjani/Punarjani_28_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_29.webp",
-                    "thumb": "/images/punarjani/Punarjani_29_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_29.webp",
+                    "thumb": "./images/punarjani/Punarjani_29_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_30.webp",
-                    "thumb": "/images/punarjani/Punarjani_30_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_30.webp",
+                    "thumb": "./images/punarjani/Punarjani_30_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_31.webp",
-                    "thumb": "/images/punarjani/Punarjani_31_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_31.webp",
+                    "thumb": "./images/punarjani/Punarjani_31_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_32.webp",
-                    "thumb": "/images/punarjani/Punarjani_32_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_32.webp",
+                    "thumb": "./images/punarjani/Punarjani_32_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_33.webp",
-                    "thumb": "/images/punarjani/Punarjani_33_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_33.webp",
+                    "thumb": "./images/punarjani/Punarjani_33_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_34.webp",
-                    "thumb": "/images/punarjani/Punarjani_34_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_34.webp",
+                    "thumb": "./images/punarjani/Punarjani_34_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_35.webp",
-                    "thumb": "/images/punarjani/Punarjani_35_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_35.webp",
+                    "thumb": "./images/punarjani/Punarjani_35_thumb.webp"
                 },
                 {
-                    "original": "/images/punarjani/Punarjani_36.webp",
-                    "thumb": "/images/punarjani/Punarjani_36_thumb.webp"
+                    "original": "./images/punarjani/Punarjani_36.webp",
+                    "thumb": "./images/punarjani/Punarjani_36_thumb.webp"
                 }
             ]
         }
