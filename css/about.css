@@ -40,6 +40,9 @@
     font-weight: 400;
     color: rgb(98, 98, 98);
 }
+.card{
+    height: auto;
+}
 .card-body{
     position: relative;
     overflow: hidden;

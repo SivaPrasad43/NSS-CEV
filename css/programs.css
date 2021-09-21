@@ -73,9 +73,15 @@
     border-radius: 20px;
 }
 .special-icon{
-    width: 5rem;
-    height: 5rem;
-    background-color: rgb(224, 224, 224);
+    width: 4rem;
+    height: 4rem;
+    background-size: cover;
+}
+#speacial-camp{
+    background-image: url(../images/special_camp_logo.png);
+}
+#blood_donation{
+    background-image: url(../images/blood_donation_logo.png);
 }
 @media(max-width:992px){
     .p-img-wrapper::-webkit-scrollbar{

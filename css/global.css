@@ -70,6 +70,10 @@ ul{
 .v-login:hover{
   background-color: #eb7779;
 }
+.navbar-expand-lg .navbar-nav .nav-link{
+  padding-left: .7rem;
+  padding-right: .7rem;
+}
 /* Scrolling Effect */
 .scrolling-active {
   box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 4%) !important;
@@ -100,9 +104,6 @@ ul{
 .scrolling-active .nav-link .v-login{
   color: white !important;
 }
-.scrolling-active .floating{
-  visibility: hidden;
-}
 @keyframes fadeIn {
   0% {
     background: rgba(255, 255, 255, 0.5);
@@ -113,16 +114,6 @@ ul{
 }
 
 /* Black Banner */
-.banner {
-  display: flex;
-  color: white;
-  justify-content: center;
-  align-items: center;
-  background: black;
-  width: 100%;
-  min-height: 30vh;
-  font-size: 3rem;
-}
 .background-2{
   height: 15rem;
   background-color: #727272;
