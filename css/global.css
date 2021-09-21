@@ -100,6 +100,9 @@ ul{
 .scrolling-active .nav-link .v-login{
   color: white !important;
 }
+.scrolling-active .floating{
+  visibility: hidden;
+}
 @keyframes fadeIn {
   0% {
     background: rgba(255, 255, 255, 0.5);
